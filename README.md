@@ -12,6 +12,9 @@ This is a practice-test repository where I'm learning POO, Typescript and maybe 
   - 📶 So that recruiters or colleagues can see what I'm able to do or learn to do as a software developer.
 
 
+
+
+
 **CONTACT ME:**
 - [LinkedIn](https://www.linkedin.com/in/federico-saa-4ab74b297/)
 - [Email me: ]() saajamilf@gmail.com
