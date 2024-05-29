@@ -2,9 +2,9 @@
 This is a practice-test repository where I'm learning POO, Typescript and maybe a new front end and/or back end framework.
 
 ## WHAT ARE THE MAIN GOALS?
-  ---✅ Be able to build an entire web application using POO.
-  ---✅ Make testing units which can be useful for preventing issues.
-  ---✅ Make an application which is scalable and could be a real problem solver or real usage tool.
+  -✅ Be able to build an entire web application using POO.
+  -✅ Make testing units which can be useful for preventing issues.
+  -✅ Make an application which is scalable and could be a real problem solver or real usage tool.
 
 
 ## WHY?
