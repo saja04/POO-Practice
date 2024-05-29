@@ -13,7 +13,7 @@ This is a practice-test repository where I'm learning POO, Typescript and maybe 
 
 
 ---
-## SCRUM VIEWER:
+## SCRUM USED:
   - Check the SCRUM board of this project [here](https://app.milanote.com/1ScjjD1yd8sYeB?p=VGU1acimxYM)!
 
 **CONTACT ME:**
