@@ -1,5 +1,5 @@
 # POO-Practice
-This is a practice-test repository where I'm learning POO
+This is a practice-test repository where I'm learning POO, Typescript and maybe a new front end and/or back end framework.
 
 ## WHAT ARE THE MAIN GOALS?
   ✅ Be able to build an entire web application using POO.
