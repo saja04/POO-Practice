@@ -8,7 +8,7 @@ This is a practice-test repository where I'm learning POO, Typescript and maybe 
 
 
 ## WHY?
-  - 👐🏻 Because I'm currently learning POO and would love to share with someone who's in the same position.
+  - 👐🏻 Because I'm currently learning POO and would love to share with someone who's in the same position how I am doing.
   - 📶 So that recruiters or colleagues can see what I'm able to do or learn to do as a software developer.
 
 ## SCRUM USED:
